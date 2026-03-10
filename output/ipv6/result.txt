@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-10 06:41:00,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
+2026-03-10 18:56:08,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
 
 央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
@@ -606,7 +606,11 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.ctv
 我和我的祖国,http://antiserver.kuwo.cn/anti.s
 
 电影直播,#genre#
+橙记港剧,http://www.goodiptv.club/douyu/4549169
+刀刀影院,http://www.goodiptv.club/douyu/747764
 华语影院,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=YanG-1989
 恐怖电影,https://yylunbo.ottiptv.cc/yy/24066336
 林正英电影,https://live.metshop.top/huya/11342421
+热门港剧,http://www.goodiptv.club/douyu/5522351
+邵氏影院,http://www.goodiptv.club/douyu/4246519
 万合出品,https://goodiptv.club/douyu/9220456
