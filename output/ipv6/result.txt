@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-09 07:01:01,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
+2026-04-09 19:11:43,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
 
 央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
@@ -103,7 +103,6 @@ CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8
 CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 CCTV-10,https://migu.188766.xyz/?migutoken=1b729b3220ed7e7356fe9864ade21694&id=CCTV10&type=yy
-CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=10
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=8
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=3
 CCTV-10,https://mgtv.ottiptv.cc/mg/624878405.m3u8?userid=5559462299&sign=5273b9e99f908afb2e4c11b1aee8f59fd7a1e20ed09a832fcc63cdf4eb5219bbf6671d72da35506af704e2585bcd614a1a6e3df55a76bcdb7f93cfa845b37eedb7c4d0cb02165132ba187b53089646f820&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -112,6 +111,7 @@ CCTV-10,https://hls-gateway.vpstv.net/streams/476896.m3u8
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
 CCTV-10,https://migu.188766.xyz/?migutoken=495649abd8d817ebf7d2b45f3dccdb3f&id=CCTV10&type=yy
+CCTV-10,http://wouu.net:9977/udp/239.93.1.28:5140
 CCTV-11,https://migu.188766.xyz/?migutoken=2caa75c089d1fbcf471112c59dc4021c&id=CCTV11&type=yy
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=2
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
@@ -133,8 +133,6 @@ CCTV-12,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=3
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=4
 CCTV-13,https://migu.188766.xyz/?migutoken=dfa446c41e6094d412ae5202d1886a4c&id=CCTV13&type=yy
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=4
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=12
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=2
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=7
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=13
@@ -142,6 +140,8 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=5559462299&sign=bbaec7f685e1c0234ab1862f2423b2c4b42d2f1ae386d7bb2b3f41d6806bcd8a19cc26011afe90198ad410b7baa69841dc262d754dba79de344aad924e911fd66f84ab57acd11adc797fd94e1fa37956ae&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-13,https://hls-gateway.vpstv.net/streams/476899.m3u8
 CCTV-14,https://migu.188766.xyz/?migutoken=4686568fb80e17a6dafda2e0900ab815&id=CCTV14&type=yy
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=6
