@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-30 19:49:21,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
+2026-05-31 07:24:12,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
 
 央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
@@ -113,6 +113,7 @@ CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-10,https://migu.188766.xyz/?migutoken=495649abd8d817ebf7d2b45f3dccdb3f&id=CCTV10&type=yy
 CCTV-10,http://wouu.net:9977/udp/239.93.1.28:5140
 CCTV-11,https://migu.188766.xyz/?migutoken=2caa75c089d1fbcf471112c59dc4021c&id=CCTV11&type=yy
+CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=3
 CCTV-11,https://mgtv.ottiptv.cc/mg/667987558.m3u8?userid=5559462299&sign=736060a8a966193d1e97b68b457a6be7ba6420890817408f94c97d51e4c7a05ac2e3de74ddbd6509759514ba49183091f9924842f8b11430068d95cec2cceca36906e5b68d02d3111c8dc379279f14ddd7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-11,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=1
@@ -121,7 +122,6 @@ CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=9
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=10
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=11
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=12
 CCTV-12,https://migu.188766.xyz/?migutoken=dcb23aadd4d94dbbf315f554895897d8&id=CCTV12&type=yy
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=1
