@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-24 20:38:54,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
+2026-06-25 07:21:23,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
 
 央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=b85a7467ac82fd5bcb1810467e0e8e77&id=CCTV1&type=yy
@@ -23,7 +23,6 @@ CCTV-2,https://mgtv.ottiptv.cc/mg/631780532.m3u8?userid=5559462299&sign=0dcf0d95
 CCTV-2,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=2
 CCTV-3,https://migu.188766.xyz/?migutoken=14c880573ba30fe6df990b3ed60ff6ec&id=CCTV3&type=yy
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=7
 CCTV-3,https://mgtv.ottiptv.cc/mg/624878271.m3u8?userid=5559462299&sign=aac6d47d20fd18701bd66e7006df0f623479f0a273fd02c44635033327b8c991d0be61814cdc8b16da72a243f6f78e567d03a7f3e03f9a25c0881d45a6ac045e9e751334198a3abfadfe4b2325c80d8963&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8
 CCTV-3,http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8
@@ -32,6 +31,7 @@ CCTV-3,https://hls-gateway.vpstv.net/streams/476883.m3u8
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8
+CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,https://migu.188766.xyz/?migutoken=7776b5dc0797917fe83242bfebab12f8&id=CCTV4&type=yy
 CCTV-4,https://migu.188766.xyz/?migutoken=dc40f44660e584cf2e6a859c044ce54d&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 CCTV-4,https://migu.188766.xyz/?migutoken=c34e961a7db5cff26cd5fffd2fab55a9&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
@@ -173,7 +173,6 @@ CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 CCTV-16,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,https://migu.188766.xyz/?migutoken=06e68dc4a0d3c1dc0246be9a2f4ae3f8&id=CCTV17&type=yy
-CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=2
 CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=6c6b92df7285c968f239d36f284daeab68b8fe93e9ddd0279263ac511b049b3b11d6c9ad50a0a8a14cbccaea3cf13a42a452382f876bd519e7635e5b9e8162b34b3ef9294683d5b6690df613e4c2b4f3ec&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-17,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,https://hls-gateway.vpstv.net/streams/708820.m3u8
@@ -182,6 +181,7 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-17,https://migu.188766.xyz/?migutoken=d665c8292f0e407dc4131f2e36818058&id=CCTV17&type=yy
 CCTV-17,http://wouu.net:9977/udp/239.93.0.92:5140
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=1f0018205f02ce70108aadafba7fcfec39c929e9d2523f79a212c4165da5603e21b87da7118e6b0cea3eeeeccd815040f7765b3fb939716daf20de611d8c89feb7e0fbd64b5fec9a152f7776b9
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -584,8 +584,8 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-24.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-16.m3u8
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-8.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=ba657c78d098c855ae6436cb8c80f93d12d389e8f18b0f26f30a3e6ad7b305509d653b47a6a67f3bca39a2491519949341dc1abd9f8eb4d447c65e59bf9089d6253b4387f1782843e2c6e96e06cfba7bbe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.ctv
