@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 11:08:39,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-08-28 04:23:42,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -8,22 +8,21 @@ CCTV-3,http://nas.lyfkai.cn:19999/rtp/239.69.1.122:10370
 CCTV-4,http://www.sclvip.top:5566/rtp/239.49.8.51:9806
 CCTV-5,http://www.sclvip.top:5566/rtp/239.49.8.75:8000
 CCTV-5+,http://nas.lyfkai.cn:19999/rtp/239.254.96.234:9484
-CCTV-6,http://www.sclvip.top:5566/rtp/239.49.8.76:8000
-CCTV-6,http://nas.lyfkai.cn:19999/rtp/239.69.1.124:10382
 CCTV-6,http://home.amucn.net:8800/rtp/239.49.8.76:8000
+CCTV-6,http://nas.lyfkai.cn:19999/rtp/239.69.1.124:10382
 CCTV-7,http://nas.lyfkai.cn:19999/rtp/239.69.1.103:10256
-CCTV-8,http://www.sclvip.top:5566/rtp/239.49.8.77:8000
 CCTV-8,http://home.amucn.net:8800/rtp/239.49.8.77:8000
 CCTV-8,http://nas.lyfkai.cn:19999/rtp/239.69.1.125:10388
 CCTV-9,http://nas.lyfkai.cn:19999/rtp/239.69.1.104:10262
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7aac617ea8b28406e504926bcea8a3ed
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://nas.lyfkai.cn:19999/rtp/239.69.1.105:10268
 CCTV-11,http://nas.lyfkai.cn:19999/rtp/239.69.1.154:10560
 CCTV-12,http://nas.lyfkai.cn:19999/rtp/239.69.1.106:10274
 CCTV-14,http://nas.lyfkai.cn:19999/rtp/239.69.1.107:10280
 CCTV-16,http://nas.lyfkai.cn:19999/rtp/239.69.1.247:11124
-CCTV-17,http://home.amucn.net:8800/rtp/239.49.8.52:9810
 CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
+CCTV-17,http://home.amucn.net:8800/rtp/239.49.8.52:9810
 
 卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -33,30 +32,31 @@ CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 广东卫视,http://home.amucn.net:8800/rtp/239.49.8.13:9422
 广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
 广西卫视,http://home.amucn.net:8800/rtp/239.49.8.10:8000
-海南卫视,http://www.sclvip.top:5566/rtp/239.49.8.83:8000
 海南卫视,http://home.amucn.net:8800/rtp/239.49.8.83:8000
-河北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.113:9616
+海南卫视,http://www.sclvip.top:5566/rtp/239.49.8.83:8000
 河北卫视,http://home.amucn.net:8800/rtp/239.49.8.114:8000
+河北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.113:9616
 河南卫视,http://home.amucn.net:8800/rtp/239.49.8.29:8000
 河南卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.168:10644
 湖北卫视,http://www.sclvip.top:5566/rtp/239.49.8.8:9632
 湖北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.115:8664
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
-江西卫视,http://www.sclvip.top:5566/rtp/239.49.8.111:8000
+湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 江西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.126:10394
+江西卫视,http://www.sclvip.top:5566/rtp/239.49.8.111:8000
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 深圳卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.137:8896
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
-浙江卫视,http://www.negative.top:50000/rtp/233.50.201.100:5140
 浙江卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.143:8932
+浙江卫视,http://www.negative.top:50000/rtp/233.50.201.100:5140
 
 重庆频道,#genre#
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
@@ -106,7 +106,6 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 
 电影直播,#genre#
 HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
-斗鱼1,http://epg.112114.xyz/douyu/4332
 斗鱼4,http://epg.112114.xyz/douyu/747764
 斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
 华语经典1(🚀),http://epg.112114.eu.org/douyu/85894
