@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-01 09:15:12,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-09-01 22:45:29,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -45,8 +45,8 @@ CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
 江西卫视,http://www.sclvip.top:5566/rtp/239.49.8.111:8000
 江西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.126:10394
-内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 深圳卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.137:8896
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
@@ -56,14 +56,9 @@ CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 重庆频道,#genre#
 重庆汽摩,http://45.192.97.170:8880/play/3834.m3u8
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
 
 少儿频道,#genre#
 
@@ -104,8 +99,8 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 许嵩经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
 
 电影点播,#genre#
-九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
+九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
 
 电影直播,#genre#
