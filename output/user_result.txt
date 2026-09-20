@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-20 08:05:26,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-09-20 22:08:26,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -62,8 +62,8 @@ CCTV-5+,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=dccf24453800d8bba2183f44e75221048975cf6f40880968e9b7232906454fce8dd978084ca41bb069f541753481c4df9c660855fb30e6c0adec5890880549f3abb48c728df0b2b3fb2370c1fc7d5ab57c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5+,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+,https://hls-gateway.vpstv.net/streams/476888.m3u8
-CCTV-6,http://nas.lyfkai.cn:19999/rtp/239.69.1.124:10382
 CCTV-6,http://home.amucn.net:8800/rtp/239.49.8.76:8000
+CCTV-6,http://nas.lyfkai.cn:19999/rtp/239.69.1.124:10382
 CCTV-6,https://migu.188766.xyz/?migutoken=d5f13309fd1a6f99fc0a6d9d52a7214e&id=CCTV6&type=yy
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=5
 CCTV-6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=5559462299&sign=20d05bfb58d49d70c5aa97e27ae974ea0a9b6ec7d2b89eebbbc47275bd74be0464928d8eeba946966e4071daac89b10208910f92babc3958948f643b3e5d348c59859c5bdc5056a0939d09dbc2a3d3e404&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -173,8 +173,8 @@ CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 CCTV-17,http://173.208.234.146/live/cctv17.m3u8
-CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 CCTV-17,http://home.amucn.net:8800/rtp/239.49.8.52:9810
+CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 CCTV-17,https://migu.188766.xyz/?migutoken=06e68dc4a0d3c1dc0246be9a2f4ae3f8&id=CCTV17&type=yy
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=3
 CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=6c6b92df7285c968f239d36f284daeab68b8fe93e9ddd0279263ac511b049b3b11d6c9ad50a0a8a14cbccaea3cf13a42a452382f876bd519e7635e5b9e8162b34b3ef9294683d5b6690df613e4c2b4f3ec&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -267,8 +267,8 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,http://goo.bkpcp.top/mg/gdws
-广西卫视,http://home.amucn.net:8800/rtp/239.49.8.10:8000
 广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
+广西卫视,http://home.amucn.net:8800/rtp/239.49.8.10:8000
 广西卫视,http://pull-hls-f11.douyincdn.com/media/stream-695314078702240428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771760950&major_anchor_level=common&sign=d9c21ca1151fa649e68dc18c13ac2e23&t_id=037-2026021519491078C5C8D15B8DDFD19426-OM31JH
 广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
 广西卫视,https://iptv.catvod.com/catvod.php?id=gxws
@@ -338,8 +338,8 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?userid=5559462299&sign=2bb6fae26254fa93ffd1a22cfcc1ec9d0c55564365c40d80ce47e1548db12f6eaee123ecffff7bdcee80739ebf5c4ea0afd07157fb90961aee7b793d0ee8d1f03442c2fc09aca8af852d18568a588a7eea&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 湖北卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
+湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
@@ -547,7 +547,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 
 少儿频道,#genre#
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8
