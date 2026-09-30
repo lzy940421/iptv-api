@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lzy940421/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-30 09:15:54
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-01 00:56:07
 http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -83,10 +83,10 @@ http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="江津新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江津新闻综合.png" group-title="重庆频道",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 tvg-name="江津新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江津新闻综合.png" group-title="重庆频道",江津新闻综合
+http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="铜梁综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铜梁综合.png" group-title="重庆频道",铜梁综合
 http://183.64.174.171:40123/ch1.m3u8
-#EXTINF:-1 tvg-name="铜梁综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铜梁综合.png" group-title="重庆频道",铜梁综合
-http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="林忆莲30首经典金曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林忆莲30首经典金曲.png" group-title="音乐金曲",林忆莲30首经典金曲
 https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
 #EXTINF:-1 tvg-name="周杰伦精选120首(8小时)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周杰伦精选120首(8小时).png" group-title="音乐金曲",周杰伦精选120首(8小时)
@@ -147,46 +147,12 @@ https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
 #EXTINF:-1 tvg-name="陶喆经典合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陶喆经典合集.png" group-title="音乐金曲",陶喆经典合集
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
-#EXTINF:-1 tvg-name="许嵩经典合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/许嵩经典合集.png" group-title="音乐金曲",许嵩经典合集
-https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
-#EXTINF:-1 tvg-name="不二神探" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/不二神探.png" group-title="电影点播",不二神探
-https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
-#EXTINF:-1 tvg-name="刁手怪招" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刁手怪招.png" group-title="电影点播",刁手怪招
-https://cdn7.yzzy-tv-cdn.com/20220625/561_337bba55/index.m3u8
-#EXTINF:-1 tvg-name="方世玉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/方世玉.png" group-title="电影点播",方世玉
-https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
-#EXTINF:-1 tvg-name="给爸爸的信" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/给爸爸的信.png" group-title="电影点播",给爸爸的信
-https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
-#EXTINF:-1 tvg-name="花木兰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/花木兰.png" group-title="电影点播",花木兰
-https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿之二:男儿当自强" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿之二:男儿当自强.png" group-title="电影点播",黄飞鸿之二:男儿当自强
-https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿之铁鸡斗蜈蚣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿之铁鸡斗蜈蚣.png" group-title="电影点播",黄飞鸿之铁鸡斗蜈蚣
-https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿之一:壮志凌云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿之一:壮志凌云.png" group-title="电影点播",黄飞鸿之一:壮志凌云
-https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
-#EXTINF:-1 tvg-name="精武英雄" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精武英雄.png" group-title="电影点播",精武英雄
-https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
 #EXTINF:-1 tvg-name="九品芝麻官" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九品芝麻官.png" group-title="电影点播",九品芝麻官
 https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 #EXTINF:-1 tvg-name="九品芝麻官" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九品芝麻官.png" group-title="电影点播",九品芝麻官
 https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
-#EXTINF:-1 tvg-name="冒险王" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冒险王.png" group-title="电影点播",冒险王
-https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
-#EXTINF:-1 tvg-name="南北少林" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南北少林.png" group-title="电影点播",南北少林
-https://cdn2.yzzy-tv-cdn.com/20220428/16621_c12279b7/index.m3u8
-#EXTINF:-1 tvg-name="杀手之王" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杀手之王.png" group-title="电影点播",杀手之王
-https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
-#EXTINF:-1 tvg-name="少林寺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少林寺.png" group-title="电影点播",少林寺
-https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
-#EXTINF:-1 tvg-name="太极张三丰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/太极张三丰.png" group-title="电影点播",太极张三丰
-https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
-#EXTINF:-1 tvg-name="投名状" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/投名状.png" group-title="电影点播",投名状
-https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
 #EXTINF:-1 tvg-name="无间道2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无间道2.png" group-title="电影点播",无间道2
 https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
-#EXTINF:-1 tvg-name="笑傲江湖2:东方不败" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖2:东方不败.png" group-title="电影点播",笑傲江湖2:东方不败
-https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
 #EXTINF:-1 tvg-name="HK港鬼片(🚀)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HK港鬼片(🚀).png" group-title="电影直播",HK港鬼片(🚀)
 http://epg.112114.eu.org/douyu/8009547
 #EXTINF:-1 tvg-name="斗鱼4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼4.png" group-title="电影直播",斗鱼4
