@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-02 01:03:22,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-10-02 09:34:24,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -82,8 +82,8 @@ CCTV-7,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-7,https://hls-gateway.vpstv.net/streams/476891.m3u8
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8
-CCTV-8,http://nas.lyfkai.cn:19999/rtp/239.69.1.125:10388
 CCTV-8,http://home.amucn.net:8800/rtp/239.49.8.77:8000
+CCTV-8,http://nas.lyfkai.cn:19999/rtp/239.69.1.125:10388
 CCTV-8,https://migu.188766.xyz/?migutoken=81f0740b241faa44d57a9235e506cb48&id=CCTV8&type=yy
 CCTV-8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?userid=5559462299&sign=1349ee0c1976752b4d8340a81eea116c99cc0d71fb892383b5dbd03b5edc15aba9e7eb18daa3fec4f3aa9a215dbace1a88c7230c002a8efbbe12fed3cd7789dd4be98f73f71a1deff56a577fba95fd859e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-8,https://migu.188766.xyz/?migutoken=3e45355756d8d0575bdc4ce8be9bd3ea&id=CCTV8&type=yy
@@ -173,8 +173,8 @@ CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 CCTV-17,http://173.208.234.146/live/cctv17.m3u8
-CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 CCTV-17,http://home.amucn.net:8800/rtp/239.49.8.52:9810
+CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 CCTV-17,https://migu.188766.xyz/?migutoken=06e68dc4a0d3c1dc0246be9a2f4ae3f8&id=CCTV17&type=yy
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=3
 CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=6c6b92df7285c968f239d36f284daeab68b8fe93e9ddd0279263ac511b049b3b11d6c9ad50a0a8a14cbccaea3cf13a42a452382f876bd519e7635e5b9e8162b34b3ef9294683d5b6690df613e4c2b4f3ec&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -267,8 +267,8 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,http://goo.bkpcp.top/mg/gdws
-广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
 广西卫视,http://home.amucn.net:8800/rtp/239.49.8.10:8000
+广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
 广西卫视,http://pull-hls-f11.douyincdn.com/media/stream-695314078702240428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771760950&major_anchor_level=common&sign=d9c21ca1151fa649e68dc18c13ac2e23&t_id=037-2026021519491078C5C8D15B8DDFD19426-OM31JH
 广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
 广西卫视,https://iptv.catvod.com/catvod.php?id=gxws
@@ -338,8 +338,8 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?userid=5559462299&sign=2bb6fae26254fa93ffd1a22cfcc1ec9d0c55564365c40d80ce47e1548db12f6eaee123ecffff7bdcee80739ebf5c4ea0afd07157fb90961aee7b793d0ee8d1f03442c2fc09aca8af852d18568a588a7eea&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 湖北卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
+湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
@@ -545,7 +545,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 
@@ -636,6 +635,7 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 杨丞琳精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 林俊杰经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
 陶喆经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
+许嵩经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
 
 电影点播,#genre#
 霸王别姬,https://vd3.bdstatic.com/mda-jjtzxjk8rk5u4bfk/hd/mda-jjtzxjk8rk5u4bfk.mp4
