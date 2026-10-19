@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-18 21:57:35,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-10-19 08:08:27,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -547,8 +547,8 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 
 少儿频道,#genre#
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8
@@ -650,7 +650,6 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
 
 电影直播,#genre#
-HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
 橙记港剧,http://www.goodiptv.club/douyu/4549169
 刀刀影院,http://www.goodiptv.club/douyu/747764
 斗鱼1,http://epg.112114.xyz/douyu/4332
