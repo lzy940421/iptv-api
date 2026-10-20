@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-20 00:58:01,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-10-20 09:04:26,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -650,7 +650,6 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
 
 电影直播,#genre#
-HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
 橙记港剧,http://www.goodiptv.club/douyu/4549169
 刀刀影院,http://www.goodiptv.club/douyu/747764
 斗鱼1,http://epg.112114.xyz/douyu/4332
