@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-29 09:44:54,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-10-30 00:53:08,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -25,8 +25,8 @@ CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 东方卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.142:8926
 东南卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.108:10286
 广东卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.140:8914
-广西卫视,http://home.amucn.net:8800/rtp/239.49.8.10:8000
 广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
+广西卫视,http://home.amucn.net:8800/rtp/239.49.8.10:8000
 海南卫视,http://home.amucn.net:8800/rtp/239.49.8.83:8000
 河北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.113:9616
 河南卫视,http://home.amucn.net:8800/rtp/239.49.8.29:8000
@@ -41,20 +41,19 @@ CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 浙江卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.143:8932
 
 重庆频道,#genre#
-重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 
 少儿频道,#genre#
 
 剧场频道,#genre#
 
 音乐金曲,#genre#
+林忆莲30首经典金曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 林俊杰精选81首(5小时),https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
 潘玮柏精选28首(1小时),https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
