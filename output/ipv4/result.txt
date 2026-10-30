@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-30 00:53:08,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
+2026-10-30 09:51:12,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 
 央视频道,#genre#
 CCTV-1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -25,12 +25,12 @@ CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 东方卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.142:8926
 东南卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.108:10286
 广东卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.140:8914
-广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
 广西卫视,http://home.amucn.net:8800/rtp/239.49.8.10:8000
+广西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.191:10788
 海南卫视,http://home.amucn.net:8800/rtp/239.49.8.83:8000
 河北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.113:9616
-河南卫视,http://home.amucn.net:8800/rtp/239.49.8.29:8000
 河南卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.168:10644
+河南卫视,http://home.amucn.net:8800/rtp/239.49.8.29:8000
 湖北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.115:8664
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
@@ -53,7 +53,6 @@ CCTV-17,http://nas.lyfkai.cn:19999/rtp/239.69.1.152:10548
 剧场频道,#genre#
 
 音乐金曲,#genre#
-林忆莲30首经典金曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 林俊杰精选81首(5小时),https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
 潘玮柏精选28首(1小时),https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
