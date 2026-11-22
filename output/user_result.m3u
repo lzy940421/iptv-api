@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lzy940421/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-22 01:20:25
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-22 10:04:43
 http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
@@ -1256,9 +1256,9 @@ https://live.ottiptv.cc/yy/1382745095
 #EXTINF:-1 tvg-name="活着" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/活着.png" group-title="电影点播",活着
 https://vd2.bdstatic.com/mda-mbnj4suztx78gu94/v1-cae/sc/mda-mbnj4suztx78gu94.mp4
 #EXTINF:-1 tvg-name="九品芝麻官" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九品芝麻官.png" group-title="电影点播",九品芝麻官
-https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
-#EXTINF:-1 tvg-name="九品芝麻官" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九品芝麻官.png" group-title="电影点播",九品芝麻官
 https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
+#EXTINF:-1 tvg-name="九品芝麻官" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九品芝麻官.png" group-title="电影点播",九品芝麻官
+https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
 #EXTINF:-1 tvg-name="我和我的祖国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我和我的祖国.png" group-title="电影点播",我和我的祖国
 http://antiserver.kuwo.cn/anti.s
 #EXTINF:-1 tvg-name="无间道2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无间道2.png" group-title="电影点播",无间道2
@@ -1273,8 +1273,6 @@ http://www.goodiptv.club/douyu/747764
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-name="斗鱼4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼4.png" group-title="电影直播",斗鱼4
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-name="斗鱼电影HD3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼电影HD3.png" group-title="电影直播",斗鱼电影HD3
-http://epg.112114.xyz/douyu/122402
 #EXTINF:-1 tvg-name="华语经典1(🚀)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华语经典1(🚀).png" group-title="电影直播",华语经典1(🚀)
 http://epg.112114.eu.org/douyu/85894
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华语影院.png" group-title="电影直播",华语影院
